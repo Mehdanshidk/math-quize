@@ -1,0 +1,51 @@
+body
+{
+   background-image: url(tree.jpg);
+   padding-top: 160px;
+}
+
+h1
+{
+    color: rgba(0, 248, 248, 0.349);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3
+{
+    color: #4b031a6e;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(63,212,251);
+background: radial-gradient(circle, rgba(63,212,251,0.7483368347338936) 26%, rgba(252,70,107,0.5606617647058824) 100%);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+    background: rgb(11, 23, 82);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
